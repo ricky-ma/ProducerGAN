@@ -6,7 +6,7 @@ Created by **Ricky Ma**.
 DCGAN (Radford et al., 2016) was created for learning to generate images. Donahue et al (2018) took this idea and applied it to audio to create WaveGAN. It is able to synthesize 1-4 second clips of birds, speech, piano, and drum sounds. I wondered if the same algorithm can be used for music, where a potential application includes the generation of creative audio samples for human producers to use. Initially trained on single artists/genres, ProducerGAN was able to generate audio of similar qualities. This can be extrapolated to include samples from multiple artists and/or genres to create music previously unheard of. Although its current output is limited, with sufficient time and computing power, this could be extended to produce full songs learned on many various artists and musical genres.
 
 ## Method
-![diagram](https://doc-04-80-docs.googleusercontent.com/docs/securesc/63op3n052togofpts3aiclqgsa8ipofr/n5tplauldigputomomtb6ia9fmnifm8j/1587003225000/05490586868415901196/05490586868415901196/1K2C9XfEINt1bWLVghrf1b-4r7Hd2gkuC?e=view&authuser=0&nonce=njjakika8cdsa&user=05490586868415901196&hash=ffn029tmkpb6bne4o4362v5ggvbcrk34)
+![diagram](https://drive.google.com/uc?export=view&id=1K2C9XfEINt1bWLVghrf1b-4r7Hd2gkuC)
 
 ### Preprocessing:
 Songs were pulled randomly from YouTube, converted to .wav files, and segmented into 4-second clips.
