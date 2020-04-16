@@ -22,7 +22,9 @@ Training does not end automatically: the number of iterations is controlled by t
 Random vectors Z are created and fed into a trained generator G.
 Vector G(z) is converted back into a waveform for playback.
 
-## [Usage](https://drive.google.com/open?id=1jy1Dtu9H3vpJMyump0f7C_FYuDa17six)
+## [Usage Video](https://drive.google.com/open?id=1jy1Dtu9H3vpJMyump0f7C_FYuDa17six)
+
+## [Results](https://drive.google.com/open?id=1J-R-SMHzGjq0-tpC8N6uSPvKM-_KUUul)
 
 
 
